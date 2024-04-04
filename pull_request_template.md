@@ -1,31 +1,15 @@
-type: textarea
-attributes:
-  label: Operating System
-  description: What operating system are you using?
-  placeholder: "Example: macOS Big Sur"
-validations:
-  required: true
+### 택일 나머지는 지우기
+* feature : 새로운 기능
+* bug : 버그 수정
+* update : 비즈니스 로직 변경
+* docs : 문서 (문서 추가, 수정, 삭제)
+* test : 테스트
+* etc : 기타 변경사항
 
-type: dropdown
-attributes:
-  label: Version
-  description: What version of our software are you running?
-  multiple: false
-  options:
-    - 1.0.2 (Default)
-    - 1.0.3 (Edge)
-  default: 0
-validations:
-  required: true
+### URL
+업무 :
 
-type: checkboxes
-attributes:
-  label: Code of Conduct
-  description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it.
-  options:
-    - label: I agree to follow this project's Code of Conduct
-      required: true
-
-type: markdown
-attributes:
-  value: "Thanks for completing our form!"
+### 변경 내용
+1.
+2.
+3.
