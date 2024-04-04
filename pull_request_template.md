@@ -1,4 +1,4 @@
-### 택일 나머지는 지우기
+### It's a develop branch
 * feature : 새로운 기능
 * bug : 버그 수정
 * update : 비즈니스 로직 변경
